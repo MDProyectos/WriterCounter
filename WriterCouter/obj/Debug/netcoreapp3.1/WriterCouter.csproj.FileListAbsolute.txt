@@ -1,0 +1,13 @@
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.exe
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.deps.json
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.runtimeconfig.json
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.runtimeconfig.dev.json
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.dll
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\bin\Debug\netcoreapp3.1\WriterCouter.pdb
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.csprojAssemblyReference.cache
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.AssemblyInfoInputs.cache
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.AssemblyInfo.cs
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.csproj.CoreCompileInputs.cache
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.dll
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.pdb
+C:\Users\Mario David\Desktop\WriterCounter\WriterCouter\obj\Debug\netcoreapp3.1\WriterCouter.genruntimeconfig.cache
